@@ -1,3 +1,3 @@
 # GoldenGoldGG.github.io
 READ ME!
-[GoldenGoldGG.github.io]
+(Text)[GoldenGoldGG.github.io]
