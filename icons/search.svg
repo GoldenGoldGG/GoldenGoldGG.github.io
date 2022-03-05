@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+    <defs>
+        <style>
+            .cls-5 {
+                fill: transparent;
+                stroke: #ebebeb;
+                stroke-miterlimit: 10;
+                stroke-width: 75px;
+            }
+            .cls-6 {
+                stroke: #ebebeb;
+                stroke-miterlimit: 10;
+                stroke-width: 75px;
+            }
+            .cls-7 {fill: #ebebeb;}
+        </style>
+    </defs>
+    <g id="Layer_2" data-name="Layer 2">
+        <g id="Layer_1-2" data-name="Layer 1">
+            <circle class="cls-5" cx="313.5" cy="187.5" r="150"/>
+            <line class="cls-6" x1="200" y1="300" x2="75" y2="425"/>
+            <circle class="cls-7" cx="75" cy="425" r="37.5"/>
+        </g>
+    </g>
+</svg>
